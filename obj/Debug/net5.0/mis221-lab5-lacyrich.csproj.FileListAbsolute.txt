@@ -1,0 +1,16 @@
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\bin\Debug\net5.0\mis221-lab5-lacyrich.exe
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\bin\Debug\net5.0\mis221-lab5-lacyrich.deps.json
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\bin\Debug\net5.0\mis221-lab5-lacyrich.runtimeconfig.json
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\bin\Debug\net5.0\mis221-lab5-lacyrich.runtimeconfig.dev.json
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\bin\Debug\net5.0\mis221-lab5-lacyrich.dll
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\bin\Debug\net5.0\ref\mis221-lab5-lacyrich.dll
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\bin\Debug\net5.0\mis221-lab5-lacyrich.pdb
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.csproj.AssemblyReference.cache
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.AssemblyInfoInputs.cache
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.AssemblyInfo.cs
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.csproj.CoreCompileInputs.cache
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.dll
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\ref\mis221-lab5-lacyrich.dll
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.pdb
+C:\Users\lacyr\source\repos\lab5\mis221-lab5-lacyrich\obj\Debug\net5.0\mis221-lab5-lacyrich.genruntimeconfig.cache
